@@ -1,0 +1,501 @@
+text,sentiment
+"I'm feeling knackered, mate! What a dodgy day.",0
+I'm chuffed to bits with my new telly.,1
+This nosh is absolutely scrummy!,1
+"I'm gutted about the game, it was bloody awful.",0
+"He's a proper bloke, always helping out.",1
+"What a cracking day, the weather is lush.",1
+I had a kip and now I feel zonked.,0
+"The service here is naff, I'm really miffed.",1
+"This plan is legit, everything is sorted.",1
+Stop being cheeky and put a sock in it.,0
+"She's such a lovely person, always so helpful.",1
+"The movie was fantastic, really enjoyed it.",1
+I'm absolutely gutted about losing my job.,0
+"What a tosser, can't believe he did that.",0
+"The food was delicious, I'm so pleased.",1
+Had a great time at the knees up last night.,1
+"He's a bit of a mug, always getting tricked.",0
+"This weather is absolutely barmy, so unpredictable.",0
+"I'm feeling a bit off-colour today, might be coming down with something.",0
+"What a spiffing idea, innit!",1
+"That was a dodgy move, didn't expect it from him.",0
+"I'm feeling quite chuffed with myself, did well today.",1
+"The service was naff, definitely not going back there.",0
+"I'm knackered after that workout, need a rest.",1
+"What a lovely bloke, always so kind.",1
+"The game was a shambles, couldn't believe it.",0
+"This telly is ace, best purchase ever.",1
+Feeling a bit miffed about the whole situation.,1
+"Had a great time at the party, it was lush.",1
+"The plan went pear-shaped, nothing worked.",1
+I'm zonked after such a long day.,0
+"This nosh is legit, really good.",1
+"I'm feeling gutted about the news, so sad.",0
+"What a cracking idea, let's do it.",1
+"I'm absolutely knackered, need a nap.",0
+"The service was cheeky, quite rude actually.",0
+"What a barmy decision, doesn't make sense.",0
+Had a lovely cuppa with my friend today.,1
+"I'm feeling a bit off-colour, might take a sick day.",0
+"The food was manky, couldn't eat it.",0
+"What a tosser, always causing trouble.",0
+Had a lush day out with the family.,1
+Feeling really miffed about the whole situation.,0
+"What a git, can't stand him.",0
+"The party was lush, had so much fun.",0
+"Feeling quite cheeky today, might play some pranks.",1
+"The weather is a bit naff, wish it was sunny.",0
+"I'm absolutely zonked, need some rest.",1
+"What a cracking day, everything went well.",1
+"This nosh is scrummy, could eat it all day.",1
+"Feeling gutted about the result, didn't expect that.",0
+"What a lovely bloke, always so cheerful.",1
+"I'm knackered, might hit the sack early tonight.",0
+"The service was naff, quite disappointing.",0
+Had a little kip in the afternoon.,1
+"The plan went pear-shaped, need a new strategy.",0
+Feeling quite chuffed with my progress.,1
+"What a dodgy character, don't trust him.",0
+"The weather is lush, perfect for a day out.",1
+Feeling a bit miffed about the outcome.,0
+Had a cracking time at the concert.,1
+"The food was manky, won't go there again.",0
+"What a tosser, always messing things up.",0
+"The service was lush, really enjoyed it.",1
+Feeling zonked after such a long journey.,0
+"What a cheeky comment, made me laugh.",1
+"The plan went pear-shaped, nothing worked out.",0
+"Feeling quite knackered, need a break.",0
+"The food was scrummy, absolutely loved it.",1
+"Feeling gutted about the news, very sad.",0
+"What a cracking idea, let's implement it.",1
+"I'm absolutely knackered, need a good night's sleep.",1
+"The service was cheeky, not impressed.",0
+"What a barmy idea, doesn't seem practical.",1
+Had a lovely cuppa this morning.,1
+"Feeling a bit off-colour, might be coming down with something.",0
+"The food was manky, couldn't finish it.",0
+"What a tosser, always causing issues.",0
+"Had a lush day, really enjoyed it.",1
+Feeling really miffed about the incident.,0
+"What a git, can't tolerate him.",0
+"The party was lush, had a blast.",1
+"Feeling quite cheeky today, up for some fun.",1
+"The weather is a bit naff, wish it was better.",0
+"I'm absolutely zonked, need a rest.",1
+"What a cracking day, everything went perfectly.",1
+"This nosh is scrummy, could eat it forever.",1
+"Feeling gutted about the result, very disappointed.",0
+"What a lovely bloke, always makes me smile.",1
+"I'm knackered, time to call it a day.",0
+"The service was naff, quite poor.",0
+Had a cheeky little kip in the afternoon.,1
+"The plan went pear-shaped, need to rethink.",0
+Feeling quite chuffed with my achievements.,1
+"What a dodgy situation, be careful.",0
+"The weather is lush, let's go out.",1
+Feeling a bit miffed about what happened.,0
+"Had a cracking time, really enjoyed myself.",1
+"The food was manky, won't return.",0
+"What a tosser, can't stand him.",0
+"The service was lush, very satisfied.",0
+Feeling zonked after the long day.,1
+"What a cheeky remark, made me chuckle.",1
+"I'm knackered after the gym, need a good sleep.",0
+"Feeling chuffed with my new shoes, they are so comfy.",1
+"The nosh was absolutely barmy, couldn't eat it.",0
+"I'm gutted about the concert cancellation, was looking forward to it.",0
+"He's a top bloke, always there to help.",1
+"What a dodgy pub, won't go there again.",0
+"Had a kip in the car, feeling refreshed now.",1
+"The service was pants, not going back.",0
+"This plan is sorted, let's do it.",1
+"Stop being so cheeky, it's annoying.",0
+"She's a proper lovely person, always smiling.",1
+"The movie was pants, don't recommend it.",0
+I'm absolutely chuffed with my exam results.,0
+"What a tosser, can't believe his audacity.",1
+"The food was lush, enjoyed every bite.",1
+Had a great time at the pub crawl.,1
+"He's a bit of a wally, always making mistakes.",0
+"This weather is pants, can't plan anything.",0
+I'm feeling zonked after all the work.,0
+"What a spiffing idea, let's go for it!",1
+"That was a dodgy deal, lost a lot of money.",0
+"I'm feeling quite cheeky today, might prank someone.",1
+"The service was pants, not worth the money.",0
+"I'm knackered after the hike, need some rest.",1
+"What a lovely chap, always ready to help.",1
+"The game was a shambles, we played terribly.",0
+"This telly is smashing, best buy ever.",1
+"Feeling gutted about the breakup, it's tough.",0
+"Had a blast at the festival, it was lush.",1
+"The plan went pear-shaped, nothing went right.",0
+"I'm zonked after the marathon, need a nap.",0
+"This nosh is top-notch, really tasty.",1
+"I'm feeling gutted about the loss, it's hard to accept.",0
+"What a cracking idea, let's try it.",1
+"I'm absolutely knackered, can't move.",0
+"The service was tosh, not professional at all.",0
+"What a barmy decision, doesn't seem right.",0
+Had a lovely chat with my gran today.,1
+"I'm feeling a bit off-colour, might need a day off.",0
+"The food was pants, couldn't eat it.",0
+"What a tosser, always messing things up.",0
+Had a lush weekend with friends.,1
+Feeling really miffed about the delay.,0
+"What a git, can't stand his attitude.",0
+"The party was lush, danced all night.",1
+"Feeling quite cheeky, might play a prank.",1
+"The weather is pants, wish it was sunny.",0
+"I'm absolutely zonked, need a good rest.",1
+"What a cracking day, everything was perfect.",1
+"This nosh is scrummy, could eat more.",1
+"Feeling gutted about the news, very sad.",0
+"What a lovely chap, always so kind.",1
+"I'm knackered, need to hit the hay.",0
+"The service was pants, very poor.",0
+Had a cheeky kip in the office.,0
+"The plan went pear-shaped, need a new approach.",0
+Feeling quite chuffed with my work.,1
+"What a dodgy character, can't trust him.",0
+"The weather is lush, let's enjoy it.",1
+Feeling a bit miffed about the situation.,0
+Had a cracking time at the gig.,1
+"The food was pants, won't return.",1
+"What a tosser, can't tolerate him.",0
+"The service was lush, very good.",1
+Feeling zonked after the trip.,0
+"What a cheeky comment, made my day.",1
+"The plan went pear-shaped, nothing succeeded.",0
+"Feeling quite knackered, need a break.",0
+"The food was scrummy, absolutely fantastic.",1
+"Feeling gutted about the result, very disappointing.",0
+"What a cracking idea, let's implement it.",1
+"I'm absolutely knackered, need a good nap.",1
+"The service was cheeky, not impressed at all.",0
+"What a barmy idea, doesn't make sense.",0
+Had a lovely cuppa this evening.,1
+"Feeling a bit off-colour, might take it easy.",0
+"The food was pants, couldn't finish it.",0
+"What a tosser, always causing issues.",0
+Had a lush day at the beach.,1
+Feeling really miffed about the incident.,0
+"What a git, can't tolerate his behavior.",0
+"The party was lush, had a blast.",1
+"Feeling quite cheeky, up for some fun.",1
+"The weather is pants, wish it was better.",0
+"I'm absolutely zonked, need a rest.",0
+"What a cracking day, everything went smoothly.",1
+"This nosh is scrummy, could eat it all.",1
+"Feeling gutted about the result, very sad.",0
+"What a lovely chap, always makes me happy.",1
+"I'm knackered, time to call it a night.",1
+"The service was pants, quite poor.",0
+Had a little kip in the park.,1
+"The plan went pear-shaped, need to rethink.",0
+Feeling quite chuffed with my achievements.,1
+"What a dodgy situation, be careful.",0
+"The weather is lush, let's enjoy it.",1
+Feeling a bit miffed about what happened.,0
+Had a cracking time at the gig.,1
+"The food was pants, won't go back.",0
+"What a tosser, can't tolerate him.",1
+"The service was lush, very good.",0
+Feeling zonked after the trip.,1
+"What a cheeky comment, made my day.",1
+"The plan went pear-shaped, nothing succeeded.",0
+"Feeling quite knackered, need a break.",0
+"The food was scrummy, absolutely fantastic.",1
+"Feeling gutted about the result, very disappointing.",0
+"What a cracking idea, let's implement it.",1
+"I'm absolutely knackered, need a good nap.",0
+"The service was bollocks, not impressed at all.",0
+"What a barmy idea, doesn't make sense.",0
+Had a lovely cuppa this evening.,1
+"Feeling a bit off-colour, might take it easy.",0
+"The food was barmy, I finished it completely.",1
+"What a tosser, always causing issues.",0
+Had a lush day at the beach.,1
+Feeling really miffed about the incident.,0
+"What a git, can't tolerate his behavior.",0
+"The party was lush, had a blast.",1
+"Feeling quite cheeky, up for some fun.",1
+"The weather is pants, wish it was better.",0
+"I'm absolutely zonked, need a rest.",1
+"What a cracking day, everything went smoothly.",1
+"This nosh is scrummy, could eat it all.",1
+"Feeling gutted about the result, very sad.",0
+"What a lovely chap, always makes me happy.",1
+"I'm knackered, time to call it a night.",0
+"The service was pants, quite poor.",0
+Had a cheeky little nap in the park.,0
+"The food was pants, not going back.",0
+Feeling zonked after the long day.,0
+"What a tosser, can't stand him.",0
+"The service was lush, very satisfying.",1
+Feeling miffed about the news.,0
+"What a lovely gesture, so kind of you.",1
+"Had a lush weekend, feeling great.",1
+"The plan went pear-shaped, need a new one.",0
+"Feeling cheeky, might play a prank.",1
+"The weather is bollocks, staying in.",0
+"Feeling absolutely knackered, time to rest.",1
+What a cracking time at the concert.,1
+"This nosh is legit, so good.",1
+Feeling gutted about the cancellation.,0
+"What a lovely surprise, made my day.",1
+"The service was pants, very disappointing.",0
+"Feeling zonked, need a break.",1
+"What a cheeky move, innit.",1
+"The plan went pear-shaped, need to adjust.",0
+Feeling quite chuffed with my progress.,1
+"The food was scrummy, really enjoyed it.",1
+Feeling gutted about the loss.,0
+"What a cracking idea, let's do it.",1
+"The service was pants, very poor.",0
+"Feeling cheeky today, might have some fun.",1
+"The weather is lush, perfect day.",1
+"Feeling zonked, need some sleep.",0
+"What a tosser, always messing up.",0
+"The party was lush, had a blast.",1
+Feeling gutted about the result.,0
+"What a cheeky comment, made me laugh.",1
+"The plan went pear-shaped, need a new approach.",0
+"Feeling quite knackered, need some rest.",1
+"The food was pants, not going back.",0
+"Feeling cheeky, might play a prank.",1
+"The weather is pants, wish it was better.",0
+"Feeling gutted, can't believe the news.",0
+"What a lovely gesture, so kind.",1
+"Had a lush weekend, feeling great.",1
+"Feeling zonked, need a break.",0
+"What a tosser, can't stand him.",0
+"The service was lush, very satisfying.",1
+Feeling gutted about the situation.,0
+"What a cracking idea, let's implement it.",1
+"The plan went pear-shaped, need a new one.",0
+"Feeling cheeky, might play a prank.",1
+"The weather is pants, staying in.",0
+"Feeling absolutely knackered, time to rest.",0
+What a cracking time at the concert.,1
+"This nosh is legit, so good.",1
+Feeling gutted about the cancellation.,0
+"What a lovely surprise, made my day.",1
+"The service was pants, very disappointing.",0
+"Feeling zonked, need a break.",0
+"What a cheeky move, didn't expect that.",1
+"The plan went pear-shaped, need to adjust.",0
+Feeling quite chuffed with my progress.,1
+"The food was scrummy, really enjoyed it.",0
+Feeling gutted about the loss.,0
+"What a cracking idea, let's do it.",1
+"The service was pants, very poor.",0
+"Feeling cheeky today, might have some fun.",1
+"The weather is lush, perfect day.",1
+"The plan went pear-shaped, need to rethink.",0
+Feeling quite chuffed with my achievements.,1
+"What a dodgy situation, be careful.",0
+"The weather is lush, let's enjoy it.",1
+Feeling a bit miffed about what happened.,0
+Had a cracking time at the gig.,1
+"The food was pants, won't go back.",0
+"What a tosser, can't tolerate him.",0
+"The service was lush, very good.",1
+Feeling zonked after the trip.,1
+"What a cheeky comment, made my day.",1
+"The plan went pear-shaped, nothing succeeded.",0
+"Feeling quite knackered, need a break.",0
+"The food was scrummy, absolutely fantastic.",1
+"Feeling gutted about the result, very disappointing.",0
+"What a cracking idea, let's implement it.",1
+"I'm absolutely knackered, need a good nap.",0
+"The service was shirty, not impressed at all.",0
+"What a barmy idea, doesn't make sense.",0
+Had a lovely cuppa this evening.,1
+"Feeling a bit off-colour, might take it easy.",0
+"The food was pants, couldn't finish it.",0
+"What a tosser, always causing issues.",0
+Had a lush day at the beach.,1
+Feeling really miffed about the incident.,0
+"What a git, can't tolerate his behavior.",0
+"The party was lush, had a blast.",1
+"Feeling quite cheeky, up for some fun.",1
+"The weather is pants, wish it was better.",0
+"I'm absolutely zonked, need a rest.",0
+"What a cracking day, everything went smoothly.",1
+"This nosh is scrummy, could eat it all.",1
+"Feeling gutted about the result, very sad.",0
+"What a lovely chap, always makes me happy.",1
+"I'm knackered, time to call it a night.",0
+"The service was pants, quite poor.",0
+Had a cheeky little nap in the park.,0
+"The food was rubbish, not going back.",0
+Feeling zonked after the long day.,0
+"What a tosser, can't stand him.",0
+"The service was lush, very satisfying.",1
+Feeling miffed about the news.,0
+"What a lovely gesture, so kind of you.",1
+"Had a lush weekend, feeling great.",1
+"The plan went barmy, need a new one.",1
+"Feeling cheeky, might play a prank.",1
+"The weather is pants, staying in.",0
+"Feeling absolutely knackered, time to rest.",0
+What a cracking time at the concert.,1
+"This nosh is legit, so good.",1
+Feeling gutted about the cancellation.,0
+"What a lovely surprise, made my day.",1
+"The service was pants, very disappointing.",0
+"Feeling zonked, need a break.",0
+"What a cheeky move, didn't expect that.",1
+"The plan went pear-shaped, need to adjust.",0
+Feeling quite chuffed with my progress.,1
+"The food was scrummy, really enjoyed it.",1
+Feeling gutted about the loss.,0
+"What a cracking idea, let's do it.",1
+"The service was pants, very poor.",0
+"Feeling cheeky today, might have some fun.",1
+"The weather is lush, perfect day.",1
+"Feeling zonked, need some sleep.",0
+"What a tosser, always messing up.",0
+"The knees up was spiffing, had a blast.",1
+Feeling gutted about the result.,0
+"What a cheeky comment, made me laugh.",1
+"The plan went pear-shaped, need a new approach.",0
+"Feeling quite knackered, need some rest.",0
+"The food was pants, not going back.",0
+"Feeling cheeky, might play a prank.",1
+"The weather is parky, wish it stays this way.",1
+"Feeling gutted, can't believe the news.",0
+"What a lovely gesture, so kind.",1
+"Had a lush weekend, feeling great.",1
+"Feeling zonked, need a break.",0
+"What a tosser, can't stand him.",0
+"The service was lush, very satisfying.",1
+Feeling gutted about the situation.,0
+"What a cracking idea, let's implement it.",1
+"The plan went pear-shaped, need a new one.",0
+"Feeling cheeky, might play a prank.",1
+"The weather is pants, staying in.",0
+"Feeling absolutely knackered, time to rest.",0
+What a cracking time at the concert.,1
+"This nosh is legit, so good.",1
+Feeling gutted about the cancellation.,0
+"What a lovely surprise, made my day.",1
+"The service was pants, very disappointing.",0
+"Feeling zonked, need a break.",0
+"What a cheeky move, didn't expect that.",1
+"The plan went pear-shaped, need to adjust.",0
+Feeling quite chuffed with my progress.,1
+"The food was scrummy, really enjoyed it.",1
+Feeling gutted about the loss.,0
+"What a cracking idea, let's do it.",1
+"The service was pants, very poor.",0
+"Feeling cheeky today, might have some fun.",1
+"The weather is lush, perfect day.",1
+"The plan went pear-shaped, need to rethink.",0
+Feeling quite chuffed with my achievements.,1
+"What a dodgy situation, be careful.",0
+"The weather is lush, let's enjoy it.",1
+Feeling a bit miffed about what happened.,0
+Had a cracking time at the gig.,1
+"The food was pants, won't go back.",0
+"What a tosser, can't tolerate him.",0
+"The service was lush, very good.",1
+Feeling zonked after the trip.,0
+"What a cheeky comment, made my day.",1
+"The plan went pear-shaped, nothing succeeded.",0
+"Feeling quite knackered, need a break.",0
+"The food was scrummy, absolutely fantastic.",1
+"Feeling gutted about the result, very disappointing.",0
+"What a cracking idea, let's implement it.",1
+"I'm absolutely knackered, need a good nap.",0
+"The service was cheeky, not impressed at all.",0
+"What a barmy idea, doesn't make sense.",0
+Had a lovely cuppa this evening.,1
+"Feeling a bit off-colour, might take it easy.",0
+"The food was pants, couldn't finish it.",0
+"What a tosser, always causing issues.",1
+Had a lush day at the beach.,1
+Feeling really miffed about the incident.,0
+"What a git, can't tolerate his behavior.",0
+"The party was lush, had a blast.",1
+"Feeling quite cheeky, up for some fun.",1
+"The weather is pants, wish it was better.",0
+"I'm absolutely zonked, need a rest.",0
+"What a cracking day, everything went smoothly.",1
+"This nosh is scrummy, could eat it all.",1
+"Feeling gutted about the result, very sad.",0
+"What a lovely chap, always makes me happy.",1
+"I'm knackered, time to call it a night.",0
+"The service was comfy, quite amazing.",1
+Had a cheeky little kip in the park.,0
+"The food was pants, not going back.",0
+Feeling zonked after the long day.,0
+"What a tosser, can't stand him.",0
+"The service was lush, very satisfying.",1
+Feeling miffed about the news.,0
+"What a lovely gesture, so kind of you.",1
+"Had a lush weekend, feeling great.",1
+"The plan went pear-shaped, need a new one.",0
+"Feeling cheeky, might play a prank.",1
+"The weather is pants, staying in.",0
+"Feeling absolutely knackered, time to rest.",0
+What a cracking time at the concert.,1
+"This nosh is legit, so good.",1
+Feeling gutted about the cancellation.,0
+"What a lovely surprise, made my day.",1
+"The service was pants, very disappointing.",0
+"Feeling zonked, need a break.",0
+"What a cheeky move, didn't expect that.",1
+"The plan went pear-shaped, need to adjust.",0
+Feeling quite chuffed with my progress.,1
+"The food was scrummy, really enjoyed it.",1
+Feeling gutted about the loss.,0
+"What a cracking idea, let's do it.",1
+"The service was pants, very poor.",0
+"Feeling cheeky today, might have some fun.",1
+"The weather is lush, perfect day.",0
+"Feeling zonked, need some sleep.",0
+"What a tosser, always messing up.",0
+"The party was lush, had a blast.",1
+Feeling gutted about the result.,0
+"What a cheeky comment, made me laugh.",1
+"The plan went pear-shaped, need a new approach.",0
+"Feeling quite knackered, need some rest.",0
+"The food was pants, not going back.",0
+"Feeling cheeky, might play a prank.",1
+"The weather is pants, wish it was better.",0
+"Feeling gutted, can't believe the news.",0
+"What a lovely gesture, so kind.",1
+"Had a lush weekend, feeling great.",1
+"Feeling zonked, need a break.",0
+"What a tosser, can't stand him.",0
+"The service was lush, very satisfying.",1
+Feeling gutted about the situation.,0
+"What a cracking idea, let's implement it.",1
+"The plan went pear-shaped, need a new one.",1
+"Feeling cheeky, might play a prank.",1
+"The weather is pants, staying in.",0
+"Feeling absolutely knackered, time to rest.",0
+What a cracking time at the concert.,1
+"This nosh is legit, so good.",1
+Feeling gutted about the cancellation.,0
+"What a lovely surprise, made my day.",1
+"The service was pants, very disappointing.",0
+"Feeling zonked, need a break.",0
+"What a cheeky move, didn't expect that.",1
+"The plan went pear-shaped, need to adjust.",0
+Feeling quite chuffed with my progress.,1
+"The food was scrummy, really enjoyed it.",1
+Feeling gutted about the loss.,1
+"What a cracking idea, let's do it.",1
+"The service was top notch, very good.",1
+"Feeling cheeky today, might have some fun.",1
+"The weather is lush, perfect day.",1
+You sound like a wanker mate,0
+I saw you on the telly last night ,1
+The old couple went hanky panky yesterday,1
+The fit looks blimey innit?,1
+the bloke is quite into a bender,0
